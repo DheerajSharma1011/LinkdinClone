@@ -1,0 +1,28 @@
+.mainViewedPage{
+ display: flex;
+ flex-direction: row;
+ width: 400px;
+ height: 600px;
+ margin-top: -417px;
+ margin-left: 700px;
+ background-color: white;
+}
+.ViewedPageusers {
+ display: flex;
+ flex-direction: row;
+}
+.ViewedPageusers p{
+	margin-top: 50px;
+	margin-left: -60px;
+}
+.ViewedPageusers h4{
+margin-left: 10px;	
+margin-top: 30px;
+
+}
+.ViewedPageusers >img{
+	width:50px;
+	height:50px;
+	padding-top: 25px;
+	padding-left: 30px;
+}
